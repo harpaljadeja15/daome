@@ -39,7 +39,6 @@ _Features to be Implemented_
 -   Social Token Launch
 -   Allowing Social Token to buy NFTs
 -   Fractional NFT vaults
--   Integration of Ubeswap to allow trading of Social Tokens.
 -   No-Code DAO Infrastructure (Forums, chat, treasury & governance).
 
 #### URLs
